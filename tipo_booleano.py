@@ -36,7 +36,7 @@ False or False -> False
 
 # (and):
 """
-Também e uma operação binaria , ou seja, depende de dois valores, ambos os valores devem ser verdadeiro
+Também e em uma operação binaria , ou seja, depende de dois valores, ambos os valores devem ser verdadeiro
 
 True and True -> True
 True and False -> False
